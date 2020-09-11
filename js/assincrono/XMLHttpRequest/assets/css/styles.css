@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
 :root {
-  --primary-color: rgb(102, 17, 91);
-  --primary-color-darker: rgb(64, 22, 92);
+  --primary-color: rgb(17, 86, 102);
+  --primary-color-darker: rgb(9, 48, 56);
 }
 
 * {
@@ -16,14 +16,6 @@ body {
   font-family: 'Open sans', sans-serif;
   font-size: 1.3em;
   line-height: 1.5em;
-}
-
-a {
-  background: var(--primary-color-darker);
-  text-decoration: none;
-  color: #fff;
-  border-radius: 70px;
-  padding: 5px;
 }
 
 .container {
